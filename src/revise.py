@@ -5,7 +5,9 @@ from datetime import datetime, timedelta
 
 # Function to calculate review dates
 def calculate_review_dates(start_date):
-    intervals = [1, 3, 6, 10, 15, 21, 28, 36, 45, 55, 66, 78, 91, 105, 120, 136, 153, 171, 190, 210, 231, 253, 276, 300, 325, 351, 378]
+    # intervals = [1, 3, 6, 10, 15, 21, 28, 36, 45, 55, 66, 78, 91, 105, 120, 136, 153, 171, 190, 210, 231, 253, 276, 300, 325, 351, 378]
+    intervals = [1, 3, 7, 14, 30, 60, 90, 180, 365, 730]
+    
     return [(start_date + timedelta(days=interval)).strftime('%Y-%m-%d') for interval in intervals]
 
 # Function to add a new study entry
