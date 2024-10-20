@@ -163,4 +163,5 @@ cython_debug/
 
 # Study Data
 /src/study_schedule.csv
+study_schedule.csv
 study_schedule_*
