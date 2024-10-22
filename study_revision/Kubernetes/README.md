@@ -1,4 +1,4 @@
-Sure, Sekhar! Below is the updated version with Kubernetes objects and deployment strategies added.
+Below is the updated version with Kubernetes objects and deployment strategies added.
 
 ---
 
