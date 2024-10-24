@@ -1,6 +1,6 @@
 # Natural Language Processing (NLP) Notebook
 
-# Kindly refer the Natural Language Processing (NLP) Notebook in apple notes which covers the following 
+# Kindly refer the Day 1 Natural Language Processing (NLP) Notebook in apple notes which covers the following 
 
 - **Word Embeddings**
 - **Matrix Factorization**
