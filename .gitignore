@@ -166,3 +166,4 @@ cython_debug/
 study_schedule.csv
 study_schedule_*
 .DS_Store
+spaced-env
